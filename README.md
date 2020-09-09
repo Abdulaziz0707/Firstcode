@@ -1,2 +1,2 @@
 # Firstcode
-this code is to print Hello World.
+This code is to print Hello World.
